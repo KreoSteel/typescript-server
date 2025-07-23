@@ -1,0 +1,9 @@
+{
+    "watch": ["**/*.ts"],
+    "ext": "ts",
+    "execMap": {
+        "ts": "npx ts-node"
+    },
+    "ignore": ["node_modules", "dist"],
+    "exec": "npx ts-node"
+}

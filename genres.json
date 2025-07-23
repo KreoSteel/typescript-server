@@ -1,0 +1,14 @@
+[
+  {"name": "Fantasy", "description": "Fiction with magical elements." },
+  {"name": "Science Fiction", "description": "Futuristic and scientific themes." },
+  {"name": "Mystery", "description": "Stories involving solving a crime or uncovering secrets." },
+  {"name": "Romance", "description": "Love and relationship stories." },
+  {"name": "Horror", "description": "Intended to scare or unsettle." },
+  {"name": "Thriller", "description": "Exciting, suspenseful stories." },
+  {"name": "Biography", "description": "Life stories of real people." },
+  {"name": "Adventure", "description": "Action-packed journeys and quests." },
+  {"name": "Historical", "description": "Set in the past, often with real events." },
+  {"name": "Comedy", "description": "Humorous and entertaining." },
+  {"name": "Drama", "description": "Serious, character-driven stories." },
+  {"name": "Documentary", "description": "Non-fiction, informative works." }
+] 
